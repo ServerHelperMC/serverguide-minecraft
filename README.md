@@ -1,4 +1,4 @@
-# Server
+# Server Guide
 
 ![Icon](https://media.discordapp.net/attachments/837476686978482207/848859250489819156/Untitled.png?width=170&height=170)
 
